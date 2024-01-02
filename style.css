@@ -1,0 +1,38 @@
+#external {
+    border: 10px solid red;
+    margin-top: 10px;
+    padding: 10px;
+    ;
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    text-decoration: indigo;
+    border-radius: 50px;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(247, 245, 242);
+
+}
+
+ul {
+    list-style-type: armenian;
+    list-style-type: square;
+}
+
+ul {
+    background: tomato;
+    padding: 25px;
+
+    list-style-position: inside;
+}
+
+li {
+    background-color: violet;
+    padding: 5px;
+    border-bottom: 1px solid;
+}
